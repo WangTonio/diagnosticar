@@ -1,0 +1,1 @@
+Um simples aplicativo que salva as informações do seu carro através de um OBD e gera relatórios periódicos.
